@@ -1,0 +1,14 @@
+1 - O que é engenharia de software? Qual a relação com programação?
+A engenharia de software está relacionada com a especificação, desenvolvimento, manutenção e criação de software. Programar faz parte da aplicação de engenharia de software.
+
+2 - O que são requisitos?
+São exigências, objetivos e utilidades que um sistema precisa ter.
+
+2.1. Funcionais:
+É uma declaração de como um sistema precisa se comportar
+
+2.2. Não Funcionais:
+São requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade e confiabilidade.
+
+2.3 De dois exemplos de tradeoff em requisitos não funcionais:
+Segurança e Acessibilidade.
