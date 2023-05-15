@@ -28,6 +28,15 @@ public class Teste {
 
         List<Livro> livrosEncontrados = biblioteca.buscarLivroPorEspecificação(new Especificacao("Gillian Flynn", "Intrínseca"));
         
-        assertEquals(livrosEncontrados.get(0).getEspec().getAutor(), "Gillian Flynn");
+        assertEquals(biblioteca.getAssociados().size(), 0);
+
+        biblioteca.cadastrarAssociado(new Associado("Nicole", 1));
+        biblioteca.cadastrarAssociado(new Associado("Bertoti", 2));
+
+        assertEquals(biblioteca.getAssociados().size(), 2);
+
+        List<Associado> associadosEncontrados = biblioteca.buscarAssociadoPorNome("Nicole");
+
+        assertEquals(associadosEncontrados.get(0).getId(), 1);
     }
 }
