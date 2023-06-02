@@ -1,2 +1,2 @@
-# bertoti
-Engenharia de Software
+# Bertoti
+Repositório para atividades da matéria Engenharia de Software.
