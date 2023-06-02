@@ -16,4 +16,6 @@ São exigências, objetivos e utilidades que um sistema precisa ter.
 São requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade e confiabilidade.
 
 2.3 De dois exemplos de tradeoff em requisitos não funcionais:
-Segurança e Acessibilidade.
+- Portabilidade x Funcionalidade: Em sistemas que precisam ser executados em várias plataformas ou dispositivos, pode haver um trade-off entre a funcionalidade completa em todos os ambientes e a portabilidade. Recursos específicos de uma plataforma podem não estar disponíveis em outras, o que pode levar à necessidade de adaptação e sacrifício de certas funcionalidades.
+
+- Confiabilidade vs. Custo: Garantir alta confiabilidade em um sistema pode exigir redundância, tolerância a falhas e medidas de backup, que podem aumentar significativamente os custos. Portanto, pode haver um trade-off entre a confiabilidade desejada e o custo viável do sistema.
