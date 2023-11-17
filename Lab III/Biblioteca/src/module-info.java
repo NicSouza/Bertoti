@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author nicol
- *
- */
-module Biblioteca {
-}
