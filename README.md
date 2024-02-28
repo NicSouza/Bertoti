@@ -1,2 +1,2 @@
 # Bertoti
-Repositório para atividades da matéria Engenharia de Software.
+Repositório para atividades das matérias do Prof Bertoti
