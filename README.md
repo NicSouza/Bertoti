@@ -1,2 +1,2 @@
 # Bertoti
-Repositório para atividades das matérias do Prof Bertoti
+Repositório para as matérias do Prof Bertoti
