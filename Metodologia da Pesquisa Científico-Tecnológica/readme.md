@@ -30,7 +30,7 @@
 ![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/NicSouza/Bertoti/assets/108769169/2104b8ae-f234-478c-812f-4d23909bb90e)
 
 
-A partir do desafio enfrentado pela empresa parceira, 2RP Net, tivemos ocmo objetivo desenvolver um sistema de lançamento de horas extras e sobrevisos, para que seja feito um melhor controle pelos gestores e a equipe de RH.
+A partir do desafio enfrentado pela empresa parceira, 2RP Net, tivemos como objetivo desenvolver um sistema de lançamento de horas extras e sobrevisos, para que seja feito um melhor controle pelos gestores e a equipe de RH.
 
 ### Funcionalidades
 
@@ -40,4 +40,4 @@ Back end: Java.
 
 ### Contribuições pessoais
 
-Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele. 
+Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele no front-end. Utitiizei o como linguagens o HTML, CSS e JavaScript. Fiquei responsável pela criação das páginas de cadastro de cliente, e com a participação da pessoa responsável pelo backend desta página fizemos a conexão entre o front-end e o back-end.
