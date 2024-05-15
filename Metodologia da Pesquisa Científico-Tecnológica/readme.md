@@ -32,12 +32,73 @@
 
 A partir do desafio enfrentado pela empresa parceira, 2RP Net, tivemos como objetivo desenvolver um sistema de lançamento de horas extras e sobrevisos, para que seja feito um melhor controle pelos gestores e a equipe de RH.
 
-### Funcionalidades
-
 ### Tecnologias utilizadas
-Front end: HTML, CSS, JavaScript.
-Back end: Java.
+- Front end: HTML, CSS, JavaScript;
+- Back end: Java, Spring Boot;
 
 ### Contribuições pessoais
 
 Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele no front-end. Utitiizei o como linguagens o HTML, CSS e JavaScript. Fiquei responsável pela criação das páginas de cadastro de cliente, e com a participação da pessoa responsável pelo backend desta página fizemos a conexão entre o front-end e o back-end.
+
+- UX/UI Design
+- Criação dos protótipos no FIGMA
+- Desenvolvimento do Front-end de telas
+
+### Lições Aprendidas
+
+<details>
+  <summary><b>Hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Skill</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>JavaScritpt</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI design</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+<summary><b>Soft Skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Skill</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★☆☆</td>
+    </tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
+</details>
