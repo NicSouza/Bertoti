@@ -41,12 +41,24 @@ A partir do desafio enfrentado pela empresa parceira, 2RP Net, tivemos como obje
 Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do site e ajudando no desenvolvimento dele no front-end. Utitiizei o como linguagens o HTML, CSS e JavaScript. Fiquei responsável pela criação das páginas de cadastro de cliente, e com a participação da pessoa responsável pelo backend desta página fizemos a conexão entre o front-end e o back-end.
 
 - UX/UI Design
+  <details>
+      - Criação de todo o layout das telas 
+  </details>
+- Design
+  <details>
+      - Criação da identidade visual do grupo;
+      - Criação das imagens do read.me do projeto;
+  </details>
 - Criação dos protótipos no FIGMA
-- Desenvolvimento do Front-end de telas
+- Criação do Read.me do projeto
+- Desenvolvimento do Front-end da tela de lançamento de horas (HTML, CSS, JS)
+  <details> 
+      Na tela de lançamento de horas o colaborador adiciona suas horas extras/sobreavisos por meio de um formulário, as informações são armazenadas e ficam disponíveis para visualização do colaborador, gestor ou adm.
+  </details>
+- Desenvolvimento do Front-end da tela de aprovação do ADM (HTML, CSS, JS)
 
 ### Lições Aprendidas
 
-<details>
   <summary><b>Hard skills</b></summary>
   <br>
   <table align="center">
@@ -79,9 +91,7 @@ Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do si
       <td>★★★★☆</td>
     </tr>
   </table>
-</details>
 
-<details>
 <summary><b>Soft Skills</b></summary>
   <br>
   <table align="center">
@@ -101,4 +111,3 @@ Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do si
       <td>★★★★☆</td>
     </tr>
   </table>
-</details>
