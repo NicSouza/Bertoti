@@ -46,8 +46,11 @@ Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do si
   </details>
 - Design
   <details>
-      - Criação da identidade visual do grupo;
-      - Criação das imagens do read.me do projeto;
+    <ul> - Criação da identidade visual do grupo; </ul>
+    <ul> - Criação das imagens do read.me do projeto; </ul>
+
+  ![image](https://github.com/NicSouza/Bertoti/assets/108769169/9cbe650f-778b-43f7-9097-348f6cee7f27)
+
   </details>
 - Criação dos protótipos no FIGMA
 - Criação do Read.me do projeto
