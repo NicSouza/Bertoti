@@ -56,9 +56,20 @@ Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do si
 - Criação do Read.me do projeto
 - Desenvolvimento do Front-end da tela de lançamento de horas (HTML, CSS, JS)
   <details> 
-      Na tela de lançamento de horas o colaborador adiciona suas horas extras/sobreavisos por meio de um formulário, as informações são armazenadas e ficam disponíveis para visualização do colaborador, gestor ou adm.
+      
+  <ul> Na tela de lançamento de horas o colaborador adiciona suas horas extras/sobreavisos por meio de um formulário, as informações são armazenadas e ficam        disponíveis para visualização do colaborador, gestor ou adm. </ul>
+
+  ![Captura de tela 2024-05-29 193254](https://github.com/NicSouza/Bertoti/assets/108769169/093b8957-df3d-4522-8a48-70de90f178bf)
+
+
   </details>
 - Desenvolvimento do Front-end da tela de aprovação do ADM (HTML, CSS, JS)
+  <details>
+      <ul> Na tela de aprovação de horas o ADM consegue aprovar as horas lançadas pelos colaboradores e gestores. Para a aprovação chegar </ul>
+  
+  ![image](https://github.com/NicSouza/Bertoti/assets/108769169/0fe15c7b-7fe0-472e-a5e5-9a6e86a2f99e)
+
+  </details>
 
 ### Lições Aprendidas
 
