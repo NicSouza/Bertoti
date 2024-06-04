@@ -46,26 +46,37 @@ Desempenhei o papel de desenvolvedora e designer UX, criando todo o layout do si
   </details>
 - Design
   <details>
-    <ul> - Criação da identidade visual do grupo; </ul>
-    <ul> - Criação das imagens do read.me do projeto; </ul>
+    <ul> - Criação da identidade visual do grupo </ul>
+    <ul> - Criação das imagens do read.me do projeto </ul>
 
   ![image](https://github.com/NicSouza/Bertoti/assets/108769169/9cbe650f-778b-43f7-9097-348f6cee7f27)
 
   </details>
 - Criação dos protótipos no FIGMA
+   <details>
+    <ul> - Telas do ADM: <a href="https://www.figma.com/proto/8vSYUz2vXHStMQyV5PRwjg/Telas-ADM?page-id=0%3A1&type=design&node-id=245-12&viewport=-624%2C814%2C0.44&t=KNP90kX9aVoIlq0j-1&scaling=min-zoom&starting-point-node-id=204%3A3">Link</a> </ul>
+    <ul> - Telas do Usuário: <a href="https://www.figma.com/proto/SRlYvOtqT3aanoUjeVhF7I/Telas-Usu%C3%A1rio?page-id=0%3A1&type=design&node-id=257-971&viewport=-1630%2C195%2C0.42&t=DTxKuXXheJMw9522-1&scaling=min-zoom">Link</a> </ul>
+    <ul> - Telas do Gestor: <a href="https://www.figma.com/proto/V082qgtKEwamDaDpHOhhEE/Telas-Gestor?page-id=0%3A1&type=design&node-id=257-971&viewport=205%2C360%2C0.1&t=u58E8K3Sb5eBXItg-1&scaling=min-zoom">Link</a> </ul>
+   </details>
 - Criação do Read.me do projeto
+  <details>
+      https://github.com/codecatss/API-BD3/blob/main/README.md
+  </details>
 - Desenvolvimento do Front-end da tela de lançamento de horas (HTML, CSS, JS)
   <details> 
       
-  <ul> Na tela de lançamento de horas o colaborador adiciona suas horas extras/sobreavisos por meio de um formulário, as informações são armazenadas e ficam        disponíveis para visualização do colaborador, gestor ou adm. </ul>
+  <ul> Na tela de lançamento de horas o colaborador adiciona suas horas extras/sobreavisos por meio de um formulário, as informações são armazenadas e ficam        disponíveis para visualização do colaborador, gestor ou adm. Consideramos que os acionamentos que ocorreram no período do sobreaviso seriam considerados horas extras, então o botão de acionamento abrirá um pop up para o preenchimento das informações.</ul>
 
   ![Captura de tela 2024-05-29 193254](https://github.com/NicSouza/Bertoti/assets/108769169/093b8957-df3d-4522-8a48-70de90f178bf)
+
+  Pop up de acionamento:
+  ![image](https://github.com/NicSouza/Bertoti/assets/108769169/8e535adb-b156-4ad4-83ad-533a16b77e7d)
 
 
   </details>
 - Desenvolvimento do Front-end da tela de aprovação do ADM (HTML, CSS, JS)
   <details>
-      <ul> Na tela de aprovação de horas o ADM consegue aprovar as horas lançadas pelos colaboradores e gestores. Para a aprovação chegar </ul>
+      <ul> Na tela de aprovação de horas o ADM consegue aprovar as horas lançadas pelos colaboradores e gestores. Para a aprovação chegar ao ADM é necessário que ela já tenha sido previamente aprovada pelo gestor. </ul>
   
   ![image](https://github.com/NicSouza/Bertoti/assets/108769169/0fe15c7b-7fe0-472e-a5e5-9a6e86a2f99e)
 
